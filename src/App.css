@@ -1,0 +1,12 @@
+.active{
+    border-bottom: 3px solid #11B0C8;
+    font-weight: bold;
+    color: #11B0C8 !important;
+}
+.img{
+    background-attachment: fixed;
+}
+.cola{
+    color: #11B0C8;
+    text-decoration: #11B0C8;
+}
