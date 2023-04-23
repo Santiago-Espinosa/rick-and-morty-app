@@ -8,7 +8,6 @@ class Footer extends Component {
         <div className={style.infoLeft}>
           <h5>Information</h5>
           <span>
-            SoyHenry - Individual Project <br />
             Santiago Espinosa Bordón
             <br />
             santiago.espinosa.dev@gmail.com

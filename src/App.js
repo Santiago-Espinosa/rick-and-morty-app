@@ -12,6 +12,7 @@ import Navbar from './components/Navbar/Navbar';
 import Episodes from './Pages/Episodes';
 import Location from './Pages/Location';
 import CardDetails from './components/Cards/CardDetails';
+import Footer from './components/Footer/Footer';
 
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 
@@ -74,6 +75,7 @@ const Home = () => {
         </div>
       </div>
       <Pagination info={info} PageNumber={PageNumber} setPageNumber={setPageNumber}/>
+      <Footer />
     </div>
   );
 }
